@@ -1,4 +1,4 @@
-function street_fighters() {
+var street_fighters = "
 
         // credit to @loyaltyKA for the font
         // p1: wasd move; q kick; e punch
@@ -314,4 +314,4 @@ function street_fighters() {
         this.gravity = 0;
         this.pos = "idle";a
 
-}
+";
