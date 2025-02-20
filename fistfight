@@ -562,5 +562,3 @@ function program() {
 			};
 			
 		}
-		
-		runPJS(program);
